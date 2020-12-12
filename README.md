@@ -1,2 +1,1 @@
-# wscicd
-Workshop CiCd
+# bootcamplab devops
